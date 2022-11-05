@@ -10,3 +10,7 @@ Being traced using a reference image. An external blueprint of the Mustang is be
 Second Model - **Aston Martin V8 1978**
 
 Being traced using a reference image. An external blueprint of the Aston Martin is being used.
+
+Third Model - **Race Flag**
+
+Fourth Model - **Traffic Lights Signal**
