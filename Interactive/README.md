@@ -10,7 +10,7 @@ Once exported, we open VSCode and change the file name to the gltf file we expor
 
 ***Scene structure***
 
-The scene has a signal, a race flag, a mustang and an aston martin. The cars are placed in front of the signal, and the flag is placed behind the signal.  
+The scene has a signal, a race flag, a mustang and an aston martin. The cars are placed in front of the signal, and the flag is placed behind the signal. I was not able to import the cars into OpenGL, only the signal and the race flag were imported into OpenGL. The cars were too complex for OpenGL to load, and the code kpet throwing a "std::length_error", which I was not able to resolve.
 
 **Shaders and Materials**
 
