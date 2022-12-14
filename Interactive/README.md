@@ -14,7 +14,7 @@ The scene has a signal, a race flag, a mustang and an aston martin. The cars are
 
 ***Lighting***
 
-There is a light included in the scene. I have written code to move the position of the light, to show the different lighting on the models.
+There is a light included in the scene. I have written code to move the position of the light along the x and y axes, to show the different lighting on the models.
 
 ***Interaction within scene***
 
