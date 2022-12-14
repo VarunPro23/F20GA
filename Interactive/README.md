@@ -12,6 +12,10 @@ Once exported, we open VSCode and change the file name to the gltf file we expor
 
 The scene has a signal, a race flag, a mustang and an aston martin. The cars are placed in front of the signal, and the flag is placed behind the signal.  
 
+**Shaders and Materials**
+
+The *assets* folder contains all the texture files that were imported from Blender. Texture files are available for all the models individually and for the whole scene as well.
+
 ***Lighting***
 
 There is a light included in the scene. I have written code to move the position of the light along the x and y axes, to show the different lighting on the models.
